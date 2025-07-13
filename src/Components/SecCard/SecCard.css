@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.sec-card-main {
+    width: 65.39px;
+    height: 91.39px;
+    /* background-color: #fff; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    cursor: pointer;
+}
+.sec-card-main p{
+    font-weight: 400;
+    letter-spacing: 4%;
+    color: #8E8E94;
+
+}

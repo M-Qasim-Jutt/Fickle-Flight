@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first-card-main {
+    width: 632px;
+    height: 112px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: 1px solid #EAEAEA;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+}
+#first-card-span-Bold{
+    color: rgb(0, 0, 0);
+    /* background-color: #c14c4c; */
+    font-size: 20px;
+    font-weight: 700;
+
+}
+#first-card-span-normal{
+    color: rgb(0, 0, 0);
+    /* background-color: #c14c4c; */
+    font-size: 20px;
+    font-weight: 400;
+}
+.first-card-main-top{
+    width: 592px;
+    height: 28px;
+    /* background-color: #e9e9e9; */
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.first-card-main-top p{
+    font-size: 24px;
+    font-weight: 700;
+    color: #1262AE;
+}

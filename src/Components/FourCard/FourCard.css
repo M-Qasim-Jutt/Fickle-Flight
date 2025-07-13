@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&display=swap');
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.FourCard-main{
+    width: 288px;
+    height: 327px;
+    background-color: #ffffff;
+    border: 1px solid #EAEAEA;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.FourCard-main-top {
+    width: 100%;
+    height: 242px;
+    /* background-color: #71e569; */
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.FourCard-main-top img{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 100%;
+    height: 100%;
+}
+.FourCard-main-bot {
+    height: 85px;
+    width: 90%;
+    /* background-color: #d04f4f; */
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.FourCard-main-bot #site{
+    font-size: 20px;
+    letter-spacing: 2%;
+    font-weight: 500;
+}
+.FourCard-main-bot #code{
+    color: #999999;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 2%;
+    
+}
+.FourCard-main-bot #price {
+    font-family: "Baloo Bhai 2", sans-serif;
+    color: #1262AF;
+    font-size: 32px;
+    font-weight: 700;
+
+}
