@@ -10,7 +10,7 @@ const Destinations = () => {
   const FifthCardData = [
     {
       id : 1,
-      topImage : '/Images/hotels/Matterhorn-Suites-Image.png',
+      topImage : '/assets/Images/hotels/Matterhorn-Suites-Image.png',
       topPara : 'Entire bungalow',
       topBold : 'Matterhorn Suites',
       topLight : '$575/night',
@@ -19,7 +19,7 @@ const Destinations = () => {
     },
     {
       id : 2,
-      topImage : '/Images/hotels/Discovery-Shores-Image.png',
+      topImage : '/assets/Images/hotels/Discovery-Shores-Image.png',
       topPara : '2-Story beachfront suite',
       topBold : 'Discovery Shores',
       topLight : '$360/night',
@@ -28,7 +28,7 @@ const Destinations = () => {
     },
     {
       id : 3,
-      topImage : '/Images/hotels/Arctic-Hut-Image.png',
+      topImage : '/assets/Images/hotels/Arctic-Hut-Image.png',
       topPara : 'Single deluxe hut',
       topBold : 'Arctic Hut',
       topLight : '$420/night',
@@ -37,7 +37,7 @@ const Destinations = () => {
     },
     {
       id : 4,
-      topImage : '/Images/hotels/Lake-Louise-Image.png',
+      topImage : '/assets/Images/hotels/Lake-Louise-Image.png',
       topPara : 'Deluxe King Room',
       topBold : 'Lake Louise Inn',
       topLight : '$244/night',
@@ -49,14 +49,14 @@ const Destinations = () => {
   const FourCardData = [
     {
       id : 1,
-      fourImage : '/Images/sites/unsplash_5MV818tzxeo.png',
+      fourImage : '/assets/Images/sites/unsplash_5MV818tzxeo.png',
       fourSite : 'Bali',
       fourCode : '4D3N',
       fourPrice : '$899'
     },
     {
       id : 2,
-      fourImage : '/Images/sites/SwitzerlandImage.png',
+      fourImage : '/assets/Images/sites/SwitzerlandImage.png',
       fourSite : 'Bali',
       fourCode : '6D5N',
       fourPrice : '$799'
