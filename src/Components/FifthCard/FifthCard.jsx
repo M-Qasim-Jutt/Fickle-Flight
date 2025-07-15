@@ -11,13 +11,13 @@ const FifthCard = (props) => {
         <div className="fifth-card-main-bot-one">
             <div className="fifth-card-main-bot-one-top">
                 <p id='top-para'>{props.topPara}</p>
-                <img src="/Images/icons/video.png" alt="" />
+                <img src="/assets/Images/icons/video.png" alt="" />
             </div>
             <p id="top-bold">{props.topBold}</p>
             <p id="top-light">{props.topLight}</p>
         </div>
         <div className="fifth-card-main-bot-two">
-            <img src="/Images/icons/Vector.png" alt="" />
+            <img src="/assets/Images/icons/Vector.png" alt="" />
             <p id='center-review'>{props.centerReview}</p>
             <span id='review-quantity'>{props.reviewQuantity}</span> 
         </div>

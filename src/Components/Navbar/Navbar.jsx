@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="nav-container">
         <div className="nav-container-left">
           <Link to='/'>
-          <img src="/Images/Symbols.png" alt="" /></Link>
+          <img src="/assets/Images/Symbols.png" alt="" /></Link>
         </div>
         <div className="nav-container-right">
           <div className="nav-links">
@@ -18,8 +18,8 @@ const Navbar = () => {
             <NavLink to='/offers'>Offers</NavLink>
           </div>
           <div className="nav-icons">
-            <img src="/Images/Vector.png" alt="" id='nav-vector'/>
-            <img src="/Images/profile picture.png" alt="" id='nav-profile'/>
+            <img src="/assets/Images/Vector.png" alt="" id='nav-vector'/>
+            <img src="/assets/Images/profile picture.png" alt="" id='nav-profile'/>
           </div>
         </div>
       </div>

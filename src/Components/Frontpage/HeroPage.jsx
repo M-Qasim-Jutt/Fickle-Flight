@@ -4,7 +4,7 @@ import './HeroPage.css'
 const HeroPage = () => {
   return (
     <div className='hero-main'>
-      <img src="/Images/BannerBackground.png" alt="" />
+      <img src="/assets/Images/BannerBackground.png" alt="" />
       <div className="hero-center">
         <div className="hero-center-top">
           <h1>Let’s explore & travel the world</h1>

@@ -7,32 +7,32 @@ const Flights = () => {
   const DataLists = [
     {
       id : 1,
-      image : '/Images/icons/Hotel-Icon.png',
+      image : '/assets/Images/icons/Hotel-Icon.png',
       text : 'Hotel'
     },
     {
       id : 2,
-      image : '/Images/icons/Attractions-Icon.png',
+      image : '/assets/Images/icons/Attractions-Icon.png',
       text : 'Attractions'
     },
     {
       id : 3,
-      image : '/Images/icons/Commute-icon.png',
+      image : '/assets/Images/icons/Commute-icon.png',
       text : 'Commute'
     },
     {
       id : 4,
-      image : '/Images/icons/Eats-Icon.png',
+      image : '/assets/Images/icons/Eats-Icon.png',
       text : 'Eats'
     },
     {
       id : 5,
-      image : '/Images/icons/Taxi-Icon.png',
+      image : '/assets/Images/icons/Taxi-Icon.png',
       text : 'Taxi'
     },
     {
       id : 6,
-      image : '/Images/icons/Movies-icon.png',
+      image : '/assets/Images/icons/Movies-icon.png',
       text : 'Movies'
     }
   ]
