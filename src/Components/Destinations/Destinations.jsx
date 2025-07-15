@@ -63,14 +63,14 @@ const Destinations = () => {
     },
     {
       id : 3,
-      fourImage : '/Images/sites/BoracayImage.png',
+      fourImage : '/assets/Images/sites/BoracayImage.png',
       fourSite : 'Boracay',
       fourCode : '5D4N',
       fourPrice : '$1399'
     },
     {
       id : 4,
-      fourImage : '/Images/sites/PalawanImage.png',
+      fourImage : '/assets/Images/sites/PalawanImage.png',
       fourSite : 'Palawan',
       fourCode : '7D5N',
       fourPrice : '$1899'
@@ -80,25 +80,25 @@ const Destinations = () => {
   const citiesCards = [
   {
     id : 1,
-    image : '/Images/cities/ParisImage.png',
+    image : '/assets/Images/cities/ParisImage.png',
     city : 'Paris',
     price : '$699'
   },
   {
     id : 2,
-    image : '/Images/cities/GreeceImage.png',
+    image : '/assets/Images/cities/GreeceImage.png',
     city : 'Greece',
     price : '$1079'
   },
   {
     id : 3,
-    image : '/Images/cities/NorwayImage.png',
+    image : '/assets/Images/cities/NorwayImage.png',
     city : 'Norway',
     price : '$895'
   },
   {
     id : 4,
-    image : '/Images/cities/TuscanyImage.png',
+    image : '/assets/Images/cities/TuscanyImage.png',
     city : 'Tuscany',
     price : '$1245'
   }

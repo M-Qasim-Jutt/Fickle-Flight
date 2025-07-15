@@ -4,7 +4,7 @@ import './ContactPage.css'
 const ContactPage = () => {
   return (
     <div className='contact-page-main'>
-        <img src="/Images/Subscribe-section-background.png" alt="" />
+        <img src="/assets/Images/Subscribe-section-background.png" alt="" />
       <div className="contact-page-container">
       <div className="contact-page-container-text">
         <span>subscribe to our newsletter</span>
