@@ -6,7 +6,7 @@ const FirstCard = (props) => {
     <div className='first-card-main'>
       <div className="first-card-main-top">
         <p>{props.leftText}</p>
-        <img src="/src/assets/Images/Duration.png" alt="" />
+        <img src="/Images/Duration.png" alt="" />
         <p>{props.rightText}</p>
       </div>
       <p>

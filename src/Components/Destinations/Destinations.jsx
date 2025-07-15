@@ -10,7 +10,7 @@ const Destinations = () => {
   const FifthCardData = [
     {
       id : 1,
-      topImage : '/src/assets/Images/hotels/Matterhorn-Suites-Image.png',
+      topImage : '/Images/hotels/Matterhorn-Suites-Image.png',
       topPara : 'Entire bungalow',
       topBold : 'Matterhorn Suites',
       topLight : '$575/night',
@@ -19,7 +19,7 @@ const Destinations = () => {
     },
     {
       id : 2,
-      topImage : '/src/assets/Images/hotels/Discovery-Shores-Image.png',
+      topImage : '/Images/hotels/Discovery-Shores-Image.png',
       topPara : '2-Story beachfront suite',
       topBold : 'Discovery Shores',
       topLight : '$360/night',
@@ -28,7 +28,7 @@ const Destinations = () => {
     },
     {
       id : 3,
-      topImage : '/src/assets/Images/hotels/Arctic-Hut-Image.png',
+      topImage : '/Images/hotels/Arctic-Hut-Image.png',
       topPara : 'Single deluxe hut',
       topBold : 'Arctic Hut',
       topLight : '$420/night',
@@ -37,7 +37,7 @@ const Destinations = () => {
     },
     {
       id : 4,
-      topImage : '/src/assets/Images/hotels/Lake-Louise-Image.png',
+      topImage : '/Images/hotels/Lake-Louise-Image.png',
       topPara : 'Deluxe King Room',
       topBold : 'Lake Louise Inn',
       topLight : '$244/night',
@@ -49,28 +49,28 @@ const Destinations = () => {
   const FourCardData = [
     {
       id : 1,
-      fourImage : '/src/assets/Images/sites/unsplash_5MV818tzxeo.png',
+      fourImage : '/Images/sites/unsplash_5MV818tzxeo.png',
       fourSite : 'Bali',
       fourCode : '4D3N',
       fourPrice : '$899'
     },
     {
       id : 2,
-      fourImage : '/src/assets/Images/sites/SwitzerlandImage.png',
+      fourImage : '/Images/sites/SwitzerlandImage.png',
       fourSite : 'Bali',
       fourCode : '6D5N',
       fourPrice : '$799'
     },
     {
       id : 3,
-      fourImage : '/src/assets/Images/sites/BoracayImage.png',
+      fourImage : '/Images/sites/BoracayImage.png',
       fourSite : 'Boracay',
       fourCode : '5D4N',
       fourPrice : '$1399'
     },
     {
       id : 4,
-      fourImage : '/src/assets/Images/sites/PalawanImage.png',
+      fourImage : '/Images/sites/PalawanImage.png',
       fourSite : 'Palawan',
       fourCode : '7D5N',
       fourPrice : '$1899'
@@ -80,25 +80,25 @@ const Destinations = () => {
   const citiesCards = [
   {
     id : 1,
-    image : '/src/assets/Images/cities/ParisImage.png',
+    image : '/Images/cities/ParisImage.png',
     city : 'Paris',
     price : '$699'
   },
   {
     id : 2,
-    image : '/src/assets/Images/cities/GreeceImage.png',
+    image : '/Images/cities/GreeceImage.png',
     city : 'Greece',
     price : '$1079'
   },
   {
     id : 3,
-    image : '/src/assets/Images/cities/NorwayImage.png',
+    image : '/Images/cities/NorwayImage.png',
     city : 'Norway',
     price : '$895'
   },
   {
     id : 4,
-    image : '/src/assets/Images/cities/TuscanyImage.png',
+    image : '/Images/cities/TuscanyImage.png',
     city : 'Tuscany',
     price : '$1245'
   }
