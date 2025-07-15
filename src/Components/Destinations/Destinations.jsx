@@ -10,7 +10,7 @@ const Destinations = () => {
   const FifthCardData = [
     {
       id : 1,
-      topImage : '/src/assets/Images/hotels/Matterhorn-Suites-Image.png',
+      topImage : '/public/assets/Images/hotels/Matterhorn-Suites-Image.png',
       topPara : 'Entire bungalow',
       topBold : 'Matterhorn Suites',
       topLight : '$575/night',
